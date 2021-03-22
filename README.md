@@ -9,6 +9,6 @@ Another trend that I noticed was that charter Schools outrank district Schools i
 
 ![schools_type.png](PyCitySchools/images/schools_type.png)
 
-Lastly,  I initially expected that difference in school sizes would have a significant impact on performance. I initially thought that with a smaller school size, there is more possibility for students to receive attention and support from teachers. However, the data supports no such prediction. The small schools bracket and the large schools bracket have almost identical average scores in both math and reading, and almost identical percentages in those who passed math, reading, and both. Therefore, the data supports that school size really doesn’t seem to impact performance at all. I am also both very interested and surprised by this. 
+Lastly,  I initially expected that differences in school sizes would have a significant impact on performance. I initially thought that with a smaller school size, there is more possibility for students to receive attention and support from teachers. However, the data supports no such prediction. The small schools bracket and the large schools bracket have almost identical average scores in both math and reading, and almost identical percentages in those who passed math, reading, and both. Therefore, the data supports that school size really doesn’t seem to impact performance at all. I am also both very interested and surprised by this. 
 
 ![schools_size.png](PyCitySchools/images/schools_size.png)
